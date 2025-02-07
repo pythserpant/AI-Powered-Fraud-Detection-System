@@ -26,6 +26,7 @@ Streamlit (Web-based fraud prediction UI)
 
 API Integration (Sends fraud alerts via HTTP requests)
 
+
 Implementation Steps:
 
 Step 1: Load Data from SQL
